@@ -1,0 +1,15 @@
+1. The term "instance variable" is another name for a non-static field.
+2. The term "class variable" is another name for a static field.
+3. A local variable stores temporary state; it is declared inside a method.
+4. A variable declared within the opening and closing parenthesis of a method signature is called a parameter.
+5. What are the eight primitive data types supported by the Java programming language?
+    1. byte -- 8 bits / 1 byte
+    2. short -- 16 bits / 2 bytes
+    3. int -- 32 bits / 4 bytes - signed -2^31 to 2^31-1
+    4. long -- 64 bits / 8 bytes - signed -2^63 to 2^63-1, literals end in l or L
+    5. float -- 32 bits / 4 bytes - literals end in f or F
+    6. double -- 64 bits / 8 bytes - default, literals optionally end in d or d
+    7. char -- 'u\0000' to 'u\ffff'
+    8. boolean -- true or false
+6. Character strings are represented by the class java.lang.String.
+7. An array is a container object that holds a fixed number of values of a single type.
